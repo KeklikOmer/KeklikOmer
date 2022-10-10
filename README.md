@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KeklikOmer
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Cloud systems
+- 👀 I’m interested in Cloud systems
+- 🌱 I’m currently learning Microsoft Azure products and SQL
 - 📫 How to reach me keklik_omer@outlook.com
 
 <!---
